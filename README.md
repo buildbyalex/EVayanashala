@@ -1,4 +1,7 @@
 All files regarding the project are in master branch . 
+
+
+
 ****PROJECT DETAILS*******
  This project was intended to digitalize the functions of a library . 
  The users can view and request for renting books of choice. For convenience only 1 copy of a book is added to the app ( as this is a demo app).
@@ -8,10 +11,19 @@ All files regarding the project are in master branch .
 different from the user view. The login credentials were shared between all the pages using Shared Preferences.
 Similar logic was used to check the avialability status of the books and to control the access of the users . 
 
+
+
+
+
+
+
 ****PROJECT INTEGRATIIONS****
 1. Android Studio
 2. Firebase
 3. Java
+
+
+
    
 Our Team Comprises of :
 1. Akhil J . Francis
