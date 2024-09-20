@@ -1,0 +1,37 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- Home Menu Item -->
+    <item
+        android:id="@+id/home"
+        android:title="Home"
+        android:icon="@drawable/ic_baseline_home_24"
+        android:iconTint="@color/colorPrimary"
+        android:checkable="true"
+        android:titleTextAppearance="@style/MenuItemTextStyle"/>
+
+    <!-- Profile Menu Item -->
+    <item
+        android:id="@+id/profile"
+        android:title="Profile"
+        android:icon="@drawable/ic_baseline_account_circle_24"
+        android:iconTint="@color/colorPrimary"
+        android:checkable="true"
+        android:titleTextAppearance="@style/MenuItemTextStyle"/>
+
+    <!-- Rental Status Menu Item -->
+    <item
+        android:id="@+id/rent"
+        android:title="Rental Status"
+        android:icon="@drawable/ic_baseline_people_24"
+        android:iconTint="@color/colorPrimary"
+        android:checkable="true"
+        android:titleTextAppearance="@style/MenuItemTextStyle"/>
+
+    <!-- About Menu Item -->
+    <item
+        android:id="@+id/about"
+        android:title="About"
+        android:icon="@drawable/ic_baseline_question_mark_24"
+        android:iconTint="@color/colorPrimary"
+        android:checkable="true"
+        android:titleTextAppearance="@style/MenuItemTextStyle"/>
+</menu>

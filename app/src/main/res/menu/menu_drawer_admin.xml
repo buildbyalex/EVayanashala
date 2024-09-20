@@ -1,0 +1,46 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- Home Menu Item -->
+    <item
+        android:id="@+id/home"
+        android:title="Home"
+        android:icon="@drawable/ic_baseline_home_24"
+        android:iconTint="@color/colorPrimary"
+        android:checkable="true"
+        android:titleTextAppearance="@style/MenuItemTextStyle"/>
+
+    <!-- Profile Menu Item -->
+    <item
+        android:id="@+id/profile"
+        android:title="Profile"
+        android:icon="@drawable/ic_baseline_account_circle_24"
+        android:iconTint="@color/colorPrimary"
+        android:checkable="true"
+        android:titleTextAppearance="@style/MenuItemTextStyle"/>
+
+    <!-- Pending Approvals Menu Item -->
+    <item
+        android:id="@+id/pending_approvals"
+        android:title="Approval Requests"
+        android:icon="@drawable/ic_baseline_add_task_24"
+        android:iconTint="@color/colorPrimary"
+        android:checkable="true"
+        android:titleTextAppearance="@style/MenuItemTextStyle"/>
+
+    <!-- User Records Menu Item -->
+    <item
+        android:id="@+id/user_records"
+        android:title="User Records"
+        android:icon="@drawable/ic_baseline_people_24"
+        android:iconTint="@color/colorPrimary"
+        android:checkable="true"
+        android:titleTextAppearance="@style/MenuItemTextStyle"/>
+
+    <!-- About Menu Item -->
+    <item
+        android:id="@+id/about"
+        android:title="About"
+        android:icon="@drawable/ic_baseline_question_mark_24"
+        android:iconTint="@color/colorPrimary"
+        android:checkable="true"
+        android:titleTextAppearance="@style/MenuItemTextStyle"/>
+</menu>

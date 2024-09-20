@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Define your application theme -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here -->
+    </style>
+
+    <!-- Define a style for menu item text -->
+    <style name="MenuItemTextStyle" parent="TextAppearance.AppCompat.Medium">
+        <item name="itemIconTint">@color/nav_item_tint</item>
+        <item name="itemTextColor">@color/nav_item_tint</item>
+
+        <item name="android:textColor">@color/colorPrimary</item> <!-- Text color -->
+        <item name="android:textSize">16sp</item> <!-- Text size -->
+        <item name="android:paddingStart">16dp</item> <!-- Left padding -->
+        <item name="android:paddingEnd">16dp</item> <!-- Right padding -->
+    </style>
+</resources>

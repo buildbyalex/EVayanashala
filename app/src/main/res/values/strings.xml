@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">E-Vayanashala</string>
+    <string name="open">Open Navigation Drawer</string>
+    <string name="close">Close Navigation Drawer</string>
+    <string name="book_cover_image_desc">Book cover image</string>
+    <string name="fab_description">Add New Book</string>
+    <string name="app_logo">App Logo</string>
+    <string name="app_description">E-Vayanashala is an innovative online library application designed to streamline the process of book renting and management. Users can easily explore the availability of new books, view detailed information about each book, and rent their favorite ones with just a few clicks. The app provides a seamless interface where users can see general details such as the books name, author, genre, and summary.</string>
+    <string name="app_version">Version: 1.0.0</string>
+    <string name="developer_info">Our team: Alvin N S , Alex Chittilappilly , Adam Felanso Sijo , Ajay V , Akhil J Francis</string>
+    <string name="contact_info">Contact: evayanashala7@gmail.com</string>
+    <string name="privacy_policy">Privacy Policy</string>
+    <string name="terms_service">Terms of Service</string>
+    <string name="acknowledgments"><string name="acknowledgment">
+        <![CDATA[
+        We would like to extend our heartfelt gratitude to the following individuals and organizations for their invaluable support and contributions in the development of the Vayana app:
+
+        1. Our Team: For their relentless hard work, dedication, and innovative ideas that made this app possible.
+
+        2. Our Users: For their continuous support, feedback, and enthusiasm, which inspire us to improve and innovate.
+
+        3. Firebase Team: For providing the robust backend services that power our authentication, database, and analytics functionalities.
+
+        4. Open Source Community: For the numerous libraries and tools that have significantly accelerated our development process.
+
+        Your support and contributions are greatly appreciated and have been instrumental in making the E-Vayanashala app a success.
+
+        Thank you!
+        ]]>
+    </string></string>
+    <string name="social_media">Follow us on Social Media</string>
+
+
+</resources>
